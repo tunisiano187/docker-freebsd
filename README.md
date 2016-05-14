@@ -1,8 +1,5 @@
 # docker-freebsd
 
-[![License](https://img.shields.io/github/license/tunisiano187/docker-freebsd.svg?maxAge=2592000)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
-[![ImageLayers Layers](https://img.shields.io/imagelayers/layers/tunisiano187/docker-freebsd/latest.svg?maxAge=2592000)](https://imagelayers.io/?images=tunisiano187%2Fdocker-freebsd:latest)
-
 FreeBSD Docker image from distribution archive.
 
 ## Requirements
