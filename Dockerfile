@@ -1,5 +1,5 @@
 FROM scratch
-MAINTAINER Akihiro Uchida <uchida@turbare.net>
-ADD base.txz /
-ADD lib32.txz /
+MAINTAINER Fabian Clerbois <fabian@bowlman.org>
+ADD http://ftp.freebsd.org/pub/FreeBSD/releases/amd64/10.3-RELEASE/base.txz /
+ADD http://ftp.freebsd.org/pub/FreeBSD/releases/amd64/10.3-RELEASE/lib32.txz /
 CMD ["/bin/sh"]
