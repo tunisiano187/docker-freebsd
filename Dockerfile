@@ -1,5 +1,4 @@
 FROM scratch
-MAINTAINER Akihiro Uchida <uchida@turbare.net>
+MAINTAINER Fabian Clerbois <fabian@bowlman.org>
 ADD base.txz /
-ADD lib32.txz /
 CMD ["/bin/sh"]
