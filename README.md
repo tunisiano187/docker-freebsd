@@ -1,7 +1,8 @@
 # docker-freebsd
 
-[![License](https://img.shields.io/github/license/tunisiano187/docker-freebsd.svg)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
-[![](https://imagelayers.io/badge/tunisiano187/docker-freebsd:latest.svg)](https://imagelayers.io/?images=tunisiano187/docker-freebsd:latest 'Get your own badge on imagelayers.io')
+[![](https://images.microbadger.com/badges/image/tunisiano187/docker-freebsd.svg)](https://microbadger.com/images/tunisiano187/docker-freebsd 
+"Get your own image badge on microbadger.com 
+")
 
 FreeBSD docker image from distribution archive.
 
